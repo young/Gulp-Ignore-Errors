@@ -1,11 +1,7 @@
 {
   "name": "gulp-ignore-errors",
   "version": "0.0.1",
-  "description": "Automatically builds Jasmine tests",
-  "main": "./lib",
-  "scripts": {
-    "test": "node-debug ./lib/index.js"
-  },
+  "description": "Ignore all your javascript errors",
   "author": "Jem Young",
   "license": "MIT",
   "dependencies": {},
