@@ -10,7 +10,7 @@ var PLUGIN_NAME = 'gulp-ignore-errors';
 
 function gulpIgnoreErrors() {
   var beginning = 'try { \n';
-  var ending = '\n }\n catch () { \n // pass \n }';
+  var ending = '\n }\n catch (e) { \n // pass \n }';
   beginning = new Buffer(beginning);
   ending = new Buffer(ending);
 
