@@ -1,0 +1,20 @@
+{
+  "name": "gulp-ignore-errors",
+  "version": "0.0.1",
+  "description": "Automatically builds Jasmine tests",
+  "main": "./lib",
+  "scripts": {
+    "test": "node-debug ./lib/index.js"
+  },
+  "author": "Jem Young",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3"
+  },
+  "keywords": [
+    "errors"
+  ]
+}
