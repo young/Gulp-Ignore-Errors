@@ -1,7 +1,7 @@
 Gulp Ignore Errors
 ==========
 
-> Ignore all Javascript errors
+> Ignore all Javascript exceptions
 
 
 ## Installation
