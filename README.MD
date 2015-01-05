@@ -1,4 +1,4 @@
-Ignore Errors
+Gulp Ignore Errors
 ==========
 
 > Ignore all Javascript errors
@@ -11,6 +11,10 @@ Install package with NPM and add it to your development dependencies:
 `npm install --save-dev gulp-ignore-errors`
 
 ## Usage
+
+Best used in conjunction with gulp-concat and gulp-uglify in order
+to silence errors in your production Javascript.
+
 ```javascript
 var gulp = require('gulp');
 var ignoreErrors = require('gulp-ignore-errors');
