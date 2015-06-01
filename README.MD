@@ -3,6 +3,7 @@ Gulp Ignore Errors
 
 > Ignore all Javascript exceptions
 
+[![NPM](https://nodei.co/npm/gulp-ignore-errors.png?downloads=true&downloadRank=true)](https://nodei.co/npm/gulp-ignore-errors/)
 
 ## Installation
 
